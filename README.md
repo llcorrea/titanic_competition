@@ -1,3 +1,5 @@
+<div align="center"><img src="./figs/head.jpg"></div>
+
 # Titanic Competition - Machine Learning from Disaster
 
 The competition goal consists in the use of ML to create a model that predicts which passengers survived the legendary Titanic shipwreck.
