@@ -9,3 +9,5 @@
 <br>
 
 > In this code, I've done an exploratory data analysis and also implemented some ML models, such as Logistic Regression and Random Forest, in order to better know the problem data and meet the competition goals.
+
+[Access](https://www.kaggle.com/llcorrea/titanic-competition-eda-and-prediction-pt) this code on Kaggle: https://www.kaggle.com/llcorrea/titanic-competition-eda-and-prediction-pt
